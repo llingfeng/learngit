@@ -13,5 +13,6 @@ Creating a new branch is quick AND simple.
 d;
 a;
 this a m branch;
+m
 
 
